@@ -72,14 +72,10 @@
         height: 100px;
         display: none;
     }
-    .headphone-div img{
-        /* width: 100%; */
-    }
     .right-section img:last-child{
         height: 60vh;
         padding: 0;
         z-index: -1;
-        border: 2px solid red;
     }
     .dots{
         display: flex;
